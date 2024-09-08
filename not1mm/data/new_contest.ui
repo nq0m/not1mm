@@ -344,6 +344,11 @@
      </item>
      <item>
       <property name="text">
+       <string>POTA</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
        <string>STEW PERRY TOPBAND</string>
       </property>
      </item>
